@@ -9,7 +9,7 @@ Description:
     
     arguments, then uses additive and subtractive glitching to
     
-    create a new image and output to the output filename.
+    create a new file and output to the output filename.
 
 example usage:
     
