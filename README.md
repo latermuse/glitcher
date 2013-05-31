@@ -4,12 +4,17 @@ glitcher
 Glitcher makes beautiful glitch art out of multimedia files.
 
 Description:
+
     This program takes an input filename and an output filename passed as
+    
     arguments, then uses additive and subtractive glitching to
+    
     create a new image and output to the output filename.
 
 example usage:
+    
     ./glitch "/home/ron/funny.jpg" "/home/ron/funny-glitched.jpg"
+    
     ./glitch "/home/music/siesta.mp3" "/home/music/siesta-glitched.mp3"
 
 
